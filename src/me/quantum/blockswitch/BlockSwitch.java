@@ -12,6 +12,7 @@ import org.bukkit.Chunk;
 import org.bukkit.World;
 import org.bukkit.plugin.java.JavaPlugin;
 
+//I FORGOT THIS
 public class BlockSwitch extends JavaPlugin {
 
 	static String mainDirectory = "plugins" + File.separator + "BlockSwitch";
